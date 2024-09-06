@@ -23,7 +23,7 @@ This project is a simplified clone of Netflix, built using HTML, CSS, and Bootst
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/netflix-clone.git
+   git clone https://github.com/rishabhrm/netflix-clone.git
    ```
 2. **Open the Index File:**
    - Access the `index.html` file in your web browser.
@@ -38,10 +38,6 @@ This project is a simplified clone of Netflix, built using HTML, CSS, and Bootst
 
 Contributions are welcome! Please feel free to fork the repository and submit pull requests.
 
-**License:**
-
-[]
-
 **Additional Notes:**
 
 * This project is intended as a learning exercise and does not include actual streaming functionality.
@@ -50,8 +46,10 @@ Contributions are welcome! Please feel free to fork the repository and submit pu
 
 **Screenshots:**
 
-[]
+![alt text](https://github.com/rishabhrm/netflix-clone/blob/main/screenshots/screenshot-1.png)
 
-**Live Demo:**
+![alt text](https://github.com/rishabhrm/netflix-clone/blob/main/screenshots/screenshot-2.png)
 
-[]
+![alt text](https://github.com/rishabhrm/netflix-clone/blob/main/screenshots/screenshot-3.png)
+
+![alt text](https://github.com/rishabhrm/netflix-clone/blob/main/screenshots/screenshot-4.png)
